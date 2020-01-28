@@ -1,7 +1,11 @@
 /* Crear una clase "Password"con dos atributos y unos metodos*/
 //Linea de prueba
 //Otra linea de comentario
+<<<<<<< HEAD
 //Cambios rama 1
+=======
+//Cambio rama 2
+>>>>>>> my_second_branch
 class Password {
     constructor(password,length = 8){
         this.length = length;
