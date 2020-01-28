@@ -1,4 +1,6 @@
+//creando una rama
 /* realizar un cifrado de texto*/
+
 
 function cifrado (text){
     for (let i = 0;i<text.length;i++ ){
