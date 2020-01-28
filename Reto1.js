@@ -1,4 +1,5 @@
 /* realizar un cifrado de texto*/
+//cambio rama principal
 
 function cifrado (text){
     for (let i = 0;i<text.length;i++ ){
