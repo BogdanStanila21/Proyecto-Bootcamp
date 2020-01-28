@@ -1,7 +1,7 @@
 /* Crear una clase "Password"con dos atributos y unos metodos*/
 //Linea de prueba
 //Otra linea de comentario
-//aver si funciona
+//Cambios rama 1
 class Password {
     constructor(password,length = 8){
         this.length = length;
