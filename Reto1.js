@@ -1,7 +1,6 @@
-//creando una rama
-/* realizar un cifrado de texto*/
-//cambio rama principal
-
+/* realizar un cifrado de // CambioJosetexto*/
+//cambio rama// CambioJose principal
+// CambioJose
 
 function cifrado (text){
     for (let i = 0;i<text.length;i++ ){
